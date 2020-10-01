@@ -1,4 +1,4 @@
-The Ways of the World
+This Ways of the World
 =====================
 
 ## Deployment ##
